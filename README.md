@@ -1,3 +1,18 @@
+Task 1:
+## 🎮 Hangman Game
+
+A simple Hangman game built using Python.
+
+### Features:
+- Random word selection
+- Limited attempts
+- User input handling
+- Win/Loss condition
+
+### Run:
+```bash
+python hangman.py
+Task 2:
 # 🤖 Chatbot Project - CodeAlpha Internship
 
 ## 📌 Description
@@ -22,3 +37,5 @@ The chatbot interacts with users and provides basic responses based on input.
 3. Run:
    ```bash
    python Chatbot.py
+
+   
